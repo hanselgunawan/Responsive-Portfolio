@@ -450,8 +450,8 @@
     {
         border-left: 1px solid grey;
         border-right: 1px solid grey;
-        padding-left: 10%;
-        padding-right: 10%;
+        padding-left: 7.5%;
+        padding-right: 7.5%;
     }
 
     #header #navigation a:nth-child(3)
