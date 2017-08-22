@@ -475,6 +475,13 @@
         margin-right: 0%;
     }
 
+    #main .col-left img
+    {
+        float: none;
+        height: 300px;
+        width: 300px;
+    }
+
     #main .col-left
     {
         border:1px solid #dddddd;
@@ -484,13 +491,6 @@
         width: 75%;
         margin: 0 auto;
         margin-bottom: 20px;
-    }
-
-    #main .col-left img
-    {
-        float: none;
-        height: 300px;
-        width: 300px;
     }
 
     #footer p
